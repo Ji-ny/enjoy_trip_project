@@ -1,0 +1,10 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bubble" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 160) rotate(90) scale(160)">
+      <stop offset="0" stop-color="#A5CAFF" stop-opacity="0.75" />
+      <stop offset="0.55" stop-color="#7F5AF0" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#1F7AFF" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <circle cx="160" cy="160" r="160" fill="url(#bubble)" />
+</svg>
